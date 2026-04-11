@@ -6,7 +6,7 @@ title: Portfolio
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="width: 30%; vertical-align: top; border: none;">
-      <img src="assets/your-photo.jpg" alt="Profile Picture" style="width: 100%; border-radius: 10px;">
+      <img src="assets/pp1.jpg" alt="Profile Picture" style="width: 100%; border-radius: 10px;">
     </td>
     <td style="width: 70%; vertical-align: top; border: none; padding-left: 20px;">
       <h2>My Story</h2>
